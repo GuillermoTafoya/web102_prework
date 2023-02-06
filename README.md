@@ -17,7 +17,7 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
+- [x] List anything else that you can get done to improve the app functionality!
 
     - [x] A search bar that allows users to search for a specific game by name
     - [x] A scroll to top button that allows users to quickly get to the top of the page 
@@ -36,7 +36,7 @@ GIF created with LiceCap
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+The main challenge developing this app was time, since not much was left when I learned about it :)
 
 ## License
 
