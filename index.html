@@ -8,9 +8,15 @@
 
   <body>
     <!-- header row with logo -->
-    <div class="header">
+    <div class="header" style="position: -webkit-sticky; position: sticky; top: 0;">
         <img id="tentacles" src="assets/tentacles.png">
         <h1 class="header-text">Sea Monster Crowdfunding</h1>
+        <!-- search-container -->
+        <div class="search-container">
+            <input type="text" id="search-bar" placeholder="Search for a game...">
+            <button id="search-btn">Search</button>
+        </div>
+        <button id="scroll-to-top-btn">Scroll to top</button>
     </div>
 
     <!-- background info about company -->
